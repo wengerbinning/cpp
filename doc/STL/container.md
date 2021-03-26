@@ -1,6 +1,5 @@
 # 容器
 <!-- D:\Program Files\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++ -->
-[//]: # (__author__ = "Wenger Binning")
 
 ## 顺序容器
 
