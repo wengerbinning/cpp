@@ -2,7 +2,7 @@
 #include <iostream>
 
 /** Include user define header file. **/
-#include <date.h>
+// #include <date.h>
 
 /** Global variable declaration. **/
 #define AUTHOR  "Wenger Binning"
@@ -15,7 +15,7 @@ static int max(int, int);
 
 /** Program entry function: main() etc. **/
 int main() {
-    Date date;
+    // Date date;
     cout << "environment is normal!" << endl;
     return 0;
 }
